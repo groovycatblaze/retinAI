@@ -10,4 +10,4 @@
 
 ## Getting Started
 
-Clone this repository and run `retinai_notebook.ipynb` to train and test the model.
+Clone this repository and run `retinAI_notebook.ipynb` to train and test the model.
