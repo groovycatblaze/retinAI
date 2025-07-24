@@ -11,3 +11,10 @@
 ## Getting Started
 
 Clone this repository and run `retinAI_notebook.ipynb` to train and test the model.
+
+## Train Images
+![retinal image](0151781fe50b.png)
+![retinal image](014508ccb9cb.png)
+![retinal image](0104b032c141.png)
+![retinal image](0097f532ac9f.png)
+
