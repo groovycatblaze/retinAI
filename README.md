@@ -11,8 +11,3 @@
 ## Getting Started
 
 Clone this repository and run `retinai_notebook.ipynb` to train and test the model.
-
-## Sample Result
-
-![Grad-CAM Example](sample_gradcam.jpg)
-00b74780d31d.png
